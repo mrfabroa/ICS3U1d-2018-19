@@ -6,7 +6,7 @@ SCREEN_HEIGHT = 600
 
 def draw_grass():
     """ Draw the ground """
-    arcade.draw_lrtb_rectangle_filled(0, SCREEN_WIDTH, SCREEN_HEIGHT / 3, 0, arcade.color.AIR_SUPERIORITY_BLUE)
+    arcade.draw_lrtb_rectangle_filled(0, SCREEN_WIDTH, SCREEN_HEIGHT / 3, 0, arcade.color.ANDROID_GREEN)
 
 
 def draw_snow_person():
