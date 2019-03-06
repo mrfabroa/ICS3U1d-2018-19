@@ -9,7 +9,7 @@ Define functions that **return** the volume of each of the following shapes:
 * cone
 * sphere
 
-Your functions should be defined with the `radius` and `height` parameters(where applicable) ([see formulas](http://www.math.com/tables/geometry/volumes.htm)).  The functions are not to print anything out, only return volume values.
+Your functions should be defined with the `radius` and `height` parameters(where applicable) ([see formulas](http://www.math.com/tables/geometry/volumes.htm)).  The functions are not to print anything out, **only return volume values**.
 
 
 ### 2) Main program
