@@ -10,10 +10,13 @@ def cigar_party(cigars, is_weekend):
     :return: Boolean
     """
 
+
     if (40 <= cigars and cigars <= 60) and not(is_weekend):
+        # check non-weekend condition
         return True
 
     elif is_weekend and cigars > 40:
+        # weekend condition
         return True
 
     else:
